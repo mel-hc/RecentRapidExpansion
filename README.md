@@ -5,4 +5,4 @@ Contents:
 
 `MTBDCode.xml` is the .xml code to fit a multi-type birth death model using the bdmm package in BEAST2, version 2.7.4
 
-`Source Data` contains the source data for the four main text figures
+`Source Data` contains the source data for the main text figures
